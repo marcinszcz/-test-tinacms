@@ -3,17 +3,13 @@
     "icon": {
       "color": "orange",
       "style": "float",
-      "name": "tina"
+      "name": "like"
     },
     "color": "default",
     "nav": [
       {
         "href": "",
         "label": "Home"
-      },
-      {
-        "href": "about",
-        "label": "About"
       },
       {
         "href": "posts",
